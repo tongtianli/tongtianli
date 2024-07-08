@@ -1,6 +1,6 @@
 ## Hi there, I'm Tianli Tong👋
 
-I am currently pursuing my master's degree in Computer Science at University of Southern California. I want to build practical software using new technologies. I also like automating things, exploring the ways of making life easier by coding. 
+I am a Backend Software Engineer at ByteDance(TikTok) in Seattle, WA. I am an alumni at University of Southern California. 
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=tongtianli&count_private=true&show_icons=true&hide=issues&bg_color=30,e96443,904e95&text_color=fff&title_color=fff" width="57%"/>
